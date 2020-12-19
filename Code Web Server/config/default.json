@@ -1,0 +1,14 @@
+{
+    "application" : {
+        "port": 3000
+    }, 
+    "database": {
+        "dbName": "data",
+        "dbHost": "127.0.0.1",
+        "dbPort": 3306,
+        "dbUser": "root",
+        "dbPassword": "root",
+        "logging": false,
+        "dialect": "mysql"
+    }
+}
